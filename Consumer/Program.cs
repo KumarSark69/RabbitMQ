@@ -26,7 +26,7 @@ using RabbitMQ.Client.Events;
 var factory = new ConnectionFactory { HostName = "localhost" };
 
 using var connection = factory.CreateConnection();
-var random= new Random();
+var random = new Random();
 using var channel = connection.CreateModel();
 Console.WriteLine("Wating for the Producer");
 channel.QueueDeclare(queue: "letterbox", durable: false, exclusive: false, autoDelete: false, arguments: null);
@@ -44,7 +44,7 @@ consumer.Received += (model, ea) =>
 
     var message = Encoding.UTF8.GetString(body);
 
-    
+
 
     Console.WriteLine($"Receving message: {message} and it take {processingTime} to process");
     Task.Delay(TimeSpan.FromSeconds(processingTime)).Wait();

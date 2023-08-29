@@ -1,0 +1,17 @@
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/obj/Debug/net7.0/consumer2.csproj.AssemblyReference.cache
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/obj/Debug/net7.0/consumer2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/obj/Debug/net7.0/consumer2.AssemblyInfoInputs.cache
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/obj/Debug/net7.0/consumer2.AssemblyInfo.cs
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/obj/Debug/net7.0/consumer2.csproj.CoreCompileInputs.cache
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/bin/Debug/net7.0/consumer2
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/bin/Debug/net7.0/consumer2.deps.json
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/bin/Debug/net7.0/consumer2.runtimeconfig.json
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/bin/Debug/net7.0/consumer2.dll
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/bin/Debug/net7.0/consumer2.pdb
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/obj/Debug/net7.0/consumer2.csproj.CopyComplete
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/obj/Debug/net7.0/consumer2.dll
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/obj/Debug/net7.0/refint/consumer2.dll
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/obj/Debug/net7.0/consumer2.pdb
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/obj/Debug/net7.0/consumer2.genruntimeconfig.cache
+/Users/anilkumar/AnilProject/RabbitMQ/consumer2/obj/Debug/net7.0/ref/consumer2.dll
